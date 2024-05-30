@@ -38,4 +38,3 @@
 * [zrx\_repairkit](scripts/zrx\_repairkit/README.md)
   * [Configuration](scripts/zrx\_repairkit/configuration.md)
   * [Exports](scripts/zrx\_repairkit/exports.md)
-* [Page](scripts/page.md)
