@@ -11,12 +11,12 @@
 
 ## Scripts
 
-* [zrx\_personalmenu](scripts/zrx\_personalmenu/README.md)
-  * [Configuration](scripts/zrx\_personalmenu/configuration.md)
-  * [Exports](scripts/zrx\_personalmenu/exports.md)
 * [zrx\_carlock](scripts/zrx\_carlock/README.md)
   * [Configuration](scripts/zrx\_carlock/configuration.md)
   * [Exports](scripts/zrx\_carlock/exports.md)
+* [zrx\_personalmenu](scripts/zrx\_personalmenu/README.md)
+  * [Configuration](scripts/zrx\_personalmenu/configuration.md)
+  * [Exports](scripts/zrx\_personalmenu/exports.md)
 * [zrx\_restrictedzone](scripts/zrx\_restrictedzone/README.md)
   * [Configuration](scripts/zrx\_restrictedzone/configuration.md)
   * [Exports](scripts/zrx\_restrictedzone/exports.md)
