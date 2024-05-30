@@ -2,6 +2,8 @@
 
 ## An advanced restricted zone system for FiveM
 
+{% embed url="https://github.com/zRxnx/zrx_restrictedzone" %}
+
 ### Features
 
 * Template System

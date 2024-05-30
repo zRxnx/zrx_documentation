@@ -2,6 +2,8 @@
 
 ## An advanced panicbutton system for FiveM
 
+{% embed url="https://github.com/zRxnx/zrx_panicbutton" %}
+
 ### Features
 
 * Template system

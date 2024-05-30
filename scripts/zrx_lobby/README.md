@@ -2,6 +2,8 @@
 
 ## An advanced lobby system for FiveM
 
+{% embed url="https://github.com/zRxnx/zrx_lobby" %}
+
 ### Features
 
 * Private/Public Lobby system

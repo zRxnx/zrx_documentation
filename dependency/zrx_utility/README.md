@@ -2,6 +2,8 @@
 
 ## An utility library for my scripts
 
+{% embed url="https://github.com/zRxnx/zrx_utility" %}
+
 ### Features
 
 * Bridge (ESX, QBX, OX)

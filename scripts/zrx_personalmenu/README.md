@@ -2,6 +2,8 @@
 
 ## An advanced personal menu system for FiveM
 
+{% embed url="https://github.com/zRxnx/zrx_personalmenu" %}
+
 ### Features
 
 * Informations (Character/Player Infos, Licenses, ID cards)

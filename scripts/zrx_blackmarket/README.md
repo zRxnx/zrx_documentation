@@ -2,6 +2,8 @@
 
 ## An advanced blackmarket system for FiveM
 
+{% embed url="https://github.com/zRxnx/zrx_blackmarket" %}
+
 ### Features
 
 * Random locations

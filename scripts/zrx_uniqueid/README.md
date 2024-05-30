@@ -2,6 +2,8 @@
 
 ## An advanced unique identifier system for FiveM
 
+{% embed url="https://github.com/zRxnx/zrx_uniqueid" %}
+
 ### Features
 
 * Menu to edit exisiting UIDs

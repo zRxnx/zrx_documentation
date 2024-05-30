@@ -2,6 +2,8 @@
 
 ## An advanced repairkit system for FiveM
 
+{% embed url="https://github.com/zRxnx/zrx_repairkit" %}
+
 ### Features
 
 * Item based
