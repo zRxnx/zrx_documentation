@@ -11,3 +11,5 @@ This documentation page is still in progress and not finished yet
 {% embed url="https://github.com/zRxnx" %}
 
 {% embed url="https://discord.gg/mcN25FJ33K" %}
+
+{% embed url="https://24fi.re/d/ILGqd9ho" %}
